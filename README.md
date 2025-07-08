@@ -57,4 +57,16 @@ weather-web-app/
 
  ```
 
+**Running the App**
+* Open index.html in a web browser.
+* Enter any city name into the input field.
+* Click the "Search" button to view the weather details.
+
+**Future Enhancements**
+* Geolocation: Auto-detect user location to show local weather by default.
+* 5-Day Forecast: Add extended weather forecasts.
+* Dark Mode: Toggle between light and dark themes.
+* Offline Mode: Cache previous results for offline use.
+* Map Integration: Display city location using a map API.
+
 
