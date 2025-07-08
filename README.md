@@ -21,3 +21,22 @@ The Weather Web App is a lightweight client-side application that provides real-
 *  Live Update: Instantly fetches new data upon user input without reloading the page.
 
 **Setup Instructions**
+
+**Prerequisites** 
+* Modern web browser (e.g., Chrome, Firefox)
+* Internet connection (to access the weather API)
+
+**Installation**
+* Clone the Repository
+  ```bash
+  git clone https://github.com/yourusername/weather-web-app.git
+  cd weather-web-app
+  ```
+
+* Open the Application
+  * Simply open index.html in your browser:
+  ```bash
+  open index.html
+  ```
+
+
