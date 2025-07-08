@@ -29,7 +29,7 @@ The Weather Web App is a lightweight client-side application that provides real-
 **Installation**
 * Clone the Repository
   ```bash
-  git clone https://github.com/yourusername/weather-web-app.git
+  git clone https://github.com/Mehaksinghal2/weather-web-app.git
   cd weather-web-app
   ```
 
