@@ -71,6 +71,6 @@ weather-web-app/
 
 **Screen Shot**
 
-<img width="1430" height="656" alt="Image" src="https://github.com/user-attachments/assets/0a1544b2-b55e-4691-afd6-f484a1a273fa" />
+<img width="1430" height="746" alt="Image" src="https://github.com/user-attachments/assets/10bb51c8-672e-4f63-9b11-0b28312f3a12" />
 
 
