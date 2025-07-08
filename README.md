@@ -7,7 +7,7 @@ The Weather Web App is a lightweight client-side application that provides real-
 **Technical Decisions and Overview**
 
 **Frontend**
-* ech Stack: HTML, CSS, JavaScript
+* Tech Stack: HTML, CSS, JavaScript
 * Responsive Design: CSS media queries ensure a mobile-friendly and responsive layout.
 * UI/UX: Built an intuitive interface for entering city names and displaying weather information.
 * API Integration: Utilized a public weather API (e.g., OpenWeatherMap) to fetch live data based on user input.
