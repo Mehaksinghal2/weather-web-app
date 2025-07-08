@@ -35,9 +35,9 @@ The Weather Web App is a lightweight client-side application that provides real-
 
 * Open the Application
   * Simply open index.html in your browser:
-  ```bash
-  open index.html
-  ```
+    ```bash
+    open index.html
+    ```
 
 * Configure the Weather API
   * Sign up at OpenWeatherMap or another weather API provider.
@@ -45,5 +45,16 @@ The Weather Web App is a lightweight client-side application that provides real-
     ```bash
     const apiUrl = "https://api.openweathermap.org/data/2.5/weather?&units=metric&q=";
     ```
+
+**Project Structure**
+ ```bash
+weather-web-app/
+│
+├── index.html          # Main HTML file
+├── styles.css          # Styling using CSS
+├── script.js           # JavaScript for logic and API integration
+└── README.md           # Project documentation
+
+ ```
 
 
