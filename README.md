@@ -69,4 +69,8 @@ weather-web-app/
 * Offline Mode: Cache previous results for offline use.
 * Map Integration: Display city location using a map API.
 
+**Screen Shot**
+
+<img width="1430" height="656" alt="Image" src="https://github.com/user-attachments/assets/0a1544b2-b55e-4691-afd6-f484a1a273fa" />
+
 
